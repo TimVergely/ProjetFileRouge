@@ -1,0 +1,30 @@
+Projet Fil Rouge: Parc d'attractions
+
+The CodeBreaker
+
+
+
+
+
+
+
+
+********************************************************************************************
+
+Admin: 
+
+- Ajout d'activitées
+- Modification d'activitées
+- Suppression d'activitées
+
+
+Utilisateurs: 
+
+- S'inscrire
+
+
+Membres:
+
+- Se connecter
+- Se déconnecter
+- Evaluer les attractions
